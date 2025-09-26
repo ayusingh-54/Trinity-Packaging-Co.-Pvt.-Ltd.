@@ -1,0 +1,4 @@
+Invoice_ID → likely it has been imported into
+Vendor_Name → likely that the vendor is not
+Amount → likely that the data has been
+Payment_Date → likely that your payment was received
